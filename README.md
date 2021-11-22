@@ -34,7 +34,7 @@
 
 <p>Dentro do diretório de sua preferência, após a descompactação, os arquivos devem estar organizados dessa forma:</p>
 
-📁 pastaescolhida<br>
+📁 DiretorioEscolhido<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|__ 📁 lib<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__ commons-dbutils-1.7<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__ jcalendar-1.4<br>

@@ -82,31 +82,32 @@
 6. Reservas
 7. Cancelamentos
 
-1. Splash
+
+**1. Splash**
 <p>Tela com loading de carregamento da aplicação</p>
 
 ![Tela Splash](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/splash.PNG)
 
-2. Login
+**2. Login**
 
 ![Tela Login](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/login.PNG)
 
-3. Menu
+**3. Menu**
 
 ![Tela Menu](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/menu.PNG)
 
-4. Vôos
+**4. Vôos**
 
 ![Tela Vôos](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/voos.PNG)
 
-5. Passageiros
+**5. Passageiros**
 
 ![Tela Passageiros](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/passageiros.PNG)
 
-6. Reservas
+**6. Reservas**
 
 ![Tela Reservas](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/reservas.PNG)
 
-7. Cancelamentos
+**7. Cancelamentos**
 
 ![Tela Cancelamentos](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/cancelamentos.PNG)

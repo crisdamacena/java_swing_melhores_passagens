@@ -1,4 +1,4 @@
-<h1 align="center"Java Melhores Passagens</h1>
+<h1 align="center">Melhores Passagens</h1>
 
 <p>Aplicação desktop para gerenciamento de reservas de passagens aéreas de vôos entre aeroportos brasileiros</p>
 

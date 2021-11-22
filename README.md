@@ -89,25 +89,32 @@
 ![Tela Splash](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/splash.PNG)
 
 **2. Login**
+<p>Tela login para inserir quaisquer valores de login e senha para entrar. Campos nulos não são aceitos.</p>
 
 ![Tela Login](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/login.PNG)
 
 **3. Menu**
+<p>Tela menu oferece as opções de gerenciamento.</p>
 
 ![Tela Menu](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/menu.PNG)
 
 **4. Vôos**
+<p>Tela Vôos exibe, gerencia vôos cadastrados e cadastra novos vôos. O código de vôo é gerado automáticamente unindo três letras do aeroporto de origem, três letras do aeroporto de destino e 4 números aleatórios. É possível inserir a quantidade de vagas disponíveis no vôo. A exibição das datas é pelo vôo mais próximo até o vôo mais distante.</p>
 
 ![Tela Vôos](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/voos.PNG)
 
 **5. Passageiros**
+<p>Tela Passageiros exibe, gerencia passageiros cadastrados e cadastra novos passageiros. O código DDD do telefone é gerado a partir do estado do passageiro. Cada passageiro pode ser classificado como Criança ou Adulto. A exibição dos passageiros é pelo ID registrado no banco de dados de forma ascendente.</p>
 
 ![Tela Passageiros](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/passageiros.PNG)
 
 **6. Reservas**
+<p>Tela Reservas exibe, gerencia reservas de passagens cadastradas e cadastra novas reservas de passagens. A reserva de passagem é o relacionamento passageiroXvôo. A partir do ID do passageiro é possível escolher um vôo e inserir o valor da passagem. Caso o passageiro seja Criança, há um desconto de 20% no valor inserido. A exibição das reservas de passagens é pelo ID da passagem registrado no banco de dados de forma ascendente.</p>
 
 ![Tela Reservas](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/reservas.PNG)
 
 **7. Cancelamentos**
+
+<p>Tela Cancelamentos exibe, gerencia cancelamentos de reservadas cadastrados e cadastra novos cancelamentos de reservas. A partir do ID da passagem, é possível obter os dados da passagem. Deste modo, basta clicar em "Cancelar Reserva" para que a reserva de passagem saia dos registros do banco de dados. O botão "Limpar Lista" exclui todos os cancelamentos salvos no banco de dados. A exibição dos cancelamentos de reservas é pelo código de vôo registrado no banco de dados de forma ascendente.</p>
 
 ![Tela Cancelamentos](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/cancelamentos.PNG)

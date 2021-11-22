@@ -31,8 +31,10 @@
 ## Como usar
 
 <p>Faça download do conjunto de arquivos neste <a href="https://github.com/crisdamacena/java_swing_melhores_passagens/tree/Release_v1">link</a></p>
-![Visual diretório](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/diretorio.PNG)
+
 <p>Dentro da pasta de sua preferencia, após a descompactação, os arquivos devem estar organizados dessa forma</p>
+
+![Visual diretório](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/diretorio.PNG)
 
 📁pastaescolhida<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|__ 📁 lib<br>

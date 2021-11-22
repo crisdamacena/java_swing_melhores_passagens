@@ -30,11 +30,11 @@
 
 ## Como usar
 
-<p>Faça download do conjunto de arquivos neste link</p>
+<p>Faça download do conjunto de arquivos neste <a href="https://github.com/crisdamacena/java_swing_melhores_passagens/blob/main/MelhoresPassagens_v1.zip">link</a></p>
 <img alt="Visual diretório" src="diretorio.PNG" />
 <p>Dentro da pasta de sua preferencia, após a descompactação, os arquivos devem estar organizados dessa forma</p>
 
-📁suapasta<br>
+📁pastaescolhida<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|__ 📁 lib<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__ commons-dbutils-1.7<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__ jcalendar-1.4<br>
@@ -47,7 +47,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;|__ MelhoresPassagens.jar<br>
 
 <p>Visual do direitório com os arquivos da aplicação executável</p>
-<p>Clique no arquivo MelhoresPassagens para executar a aplicação</p>
+<p>Clique no arquivo MelhoresPassagens.jar para executar a aplicação</p>
 <p>A tela Login aceita quaisquer valores, exceto campos nulos</p>
 
 ## Download

@@ -70,7 +70,7 @@
 
 ## Descrição
 
-<p>O sistema de gerenciamento de reservas de passagens aéras Melhores Passagens permite cadastrar e gerenciar passageiros, cadastrar e gerenciar vôos entre aeroportos brasileiros e relacionar passageirosXvôos por meio do cadastro e gerenciamento de reservas.</p>
+<p>O sistema de gerenciamento de reservas de passagens aéreas Melhores Passagens permite cadastrar e gerenciar passageiros, cadastrar e gerenciar vôos entre aeroportos brasileiros e relacionar passageirosXvôos por meio do cadastro e gerenciamento de reservas.</p>
 
 <p>As telas do projeto são:</p>
 

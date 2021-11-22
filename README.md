@@ -4,9 +4,9 @@
 
 ## Aqui você vai encontrar:
 
-1. Versão executável do projeto
+1. <a href="https://github.com/crisdamacena/java_swing_melhores_passagens/tree/Release_v1">Versão executável do projeto</a>
 2. Diagrama de entidades de relacionamento banco de dados
-3. Arquivos de instalação do projeto
+3. [Arquivos de instalação do projeto](#download)
 
 ## Features
 
@@ -63,7 +63,7 @@
 
 ### Inicialização
 
-<p>- Fazer download dos arquivos da main</p>
+<p>- Fazer download dos arquivos da <a href="https://github.com/crisdamacena/java_swing_melhores_passagens/archive/refs/heads/main.zip">main</a></p>
 <p>- Criar novo projeto novo projeto "Java with Ant > Java Application" no NetBeans com o nome "MelhoresPassagens"</p>
 <p>- Substituir arquivos do projeto criado pelos itens baixados</p>
 <p>- Executar projeto (F6)</p>

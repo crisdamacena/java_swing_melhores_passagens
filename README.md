@@ -31,7 +31,7 @@
 ## Como usar
 
 <p>Faça download do conjunto de arquivos neste link</p>
-
+<img alt="Visual diretório" src="diretorio.PNG" />
 <p>Dentro da pasta de sua preferencia, após a descompactação, os arquivos devem estar organizados dessa forma</p>
 
 📁suapasta<br>
@@ -46,7 +46,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;|__ db_melhores_passagens.db<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|__ MelhoresPassagens.jar<br>
 
+<p>Visual do direitório com os arquivos da aplicação executável</p>
 <p>Clique no arquivo MelhoresPassagens para executar a aplicação</p>
+<p>A tela Login aceita quaisquer valores, exceto campos nulos</p>
 
 ## Download
 
@@ -58,6 +60,17 @@
 
 ### Descrição
 
-<p>O sistema de gerenciamento de reservas de passagens aéras **Melhores Passagens** permite cadastrar e gerenciar passageiros, cadastrar e gerenciar vôos entre aeroportos brasileiros e relacionar passageirosXvôos por meio do cadastro e gerenciamento de reservas.</p>
+<p>O sistema de gerenciamento de reservas de passagens aéras Melhores Passagens permite cadastrar e gerenciar passageiros, cadastrar e gerenciar vôos entre aeroportos brasileiros e relacionar passageirosXvôos por meio do cadastro e gerenciamento de reservas.</p>
 
-<p></p>
+<p>As telas do projeto são:</p>
+
+1. Splash
+2. Login
+3. Menu
+4. Vôos
+5. Passageiros
+6. Reservas
+7. Cancelamentos
+
+1.Splash
+<p>Tela com loading de carregamento da aplicação</p>

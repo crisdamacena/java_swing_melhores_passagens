@@ -31,7 +31,7 @@
 ## Como usar
 
 <p>Faça download do conjunto de arquivos neste <a href="https://github.com/crisdamacena/java_swing_melhores_passagens/tree/Release_v1">link</a></p>
-<img alt="Visual diretório" src="diretorio.PNG" />
+<img alt="Visual diretório" src="Prints/diretorio.PNG" />
 <p>Dentro da pasta de sua preferencia, após a descompactação, os arquivos devem estar organizados dessa forma</p>
 
 📁pastaescolhida<br>

@@ -115,7 +115,7 @@
 ![Tela Menu](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/menu.PNG)
 
 **4. Vôos**
-<p>Tela Vôos exibe, gerencia vôos cadastrados e cadastra novos vôos. O código de vôo é gerado automáticamente unindo três letras do aeroporto de origem, três letras do aeroporto de destino e 4 números aleatórios. É possível inserir a quantidade de vagas disponíveis no vôo. A exibição das datas é pelo vôo mais próximo até o vôo mais distante.</p>
+<p>Tela Vôos exibe, gerencia vôos cadastrados e cadastra novos vôos. O código de vôo é gerado automáticamente unindo três letras do aeroporto de origem, três letras do aeroporto de destino e três números aleatórios. É possível inserir a quantidade de vagas disponíveis no vôo. A exibição das datas é pelo vôo mais próximo até o vôo mais distante.</p>
 
 ![Tela Vôos](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/voos.PNG)
 

@@ -34,8 +34,6 @@
 
 <p>Dentro da pasta de sua preferencia, após a descompactação, os arquivos devem estar organizados dessa forma</p>
 
-![Visual diretório](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/diretorio.PNG)
-
 📁pastaescolhida<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|__ 📁 lib<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__ commons-dbutils-1.7<br>
@@ -49,6 +47,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;|__ MelhoresPassagens.jar<br>
 
 <p>Visual do direitório com os arquivos da aplicação executável</p>
+
+![Visual diretório](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/diretorio.PNG)
+
 <p>Clique no arquivo MelhoresPassagens.jar para executar a aplicação</p>
 <p>A tela Login aceita quaisquer valores, exceto campos nulos</p>
 

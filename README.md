@@ -58,7 +58,14 @@
 <p>- <a href="https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html">JDK 14.0</a> ou <a href="https://jdk.java.net/java-se-ri/14">Open JDK 14+</a></p>
 <p>- <a href="https://www.java.com/en/download/manual.jsp">JRE 1.8.0_301+</a></p>
 
-### Descrição
+### Inicialização
+
+<p>- Fazer download dos arquivos da main</p>
+<p>- Criar novo projeto novo projeto "Java with Ant > Java Application" no NetBeans com o nome "MelhoresPassagens"</p>
+<p>- Substituir arquivos do projeto criado pelos itens baixados</p>
+<p>- Executar projeto (F6)</p>
+
+## Descrição
 
 <p>O sistema de gerenciamento de reservas de passagens aéras Melhores Passagens permite cadastrar e gerenciar passageiros, cadastrar e gerenciar vôos entre aeroportos brasileiros e relacionar passageirosXvôos por meio do cadastro e gerenciamento de reservas.</p>
 

@@ -46,7 +46,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;|__ db_melhores_passagens.db<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|__ MelhoresPassagens.jar<br>
 
-<p>Visual do diretório com os arquivos da aplicação executável</p>
+<p>Visual do diretório com os arquivos da aplicação executável:</p>
 
 ![Visual diretório](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/diretorio.PNG)
 
@@ -77,6 +77,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__ 📁 src<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__ build.xml<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__ manifest.mf<br>
+
+<p>Visual do diretório com os arquivos da aplicação editável:</p>
+
+![Visual diretório](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/dir.PNG)
 
 ## Descrição
 

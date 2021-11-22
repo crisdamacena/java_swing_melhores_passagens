@@ -1,11 +1,11 @@
-<h1 align="center">Melhores Passagens</h1>
+<h1 align="center">Melhores Passagens ✈️</h1>
 
 <p>Aplicação desktop para gerenciamento de reservas de passagens aéreas de vôos entre aeroportos brasileiros</p>
 
 ## Aqui você vai encontrar:
 
 1. <a href="https://github.com/crisdamacena/java_swing_melhores_passagens/tree/Release_v1">Versão executável do projeto</a>
-2. Diagrama de entidades de relacionamento banco de dados
+2. [Diagrama de entidades de relacionamento banco de dados](#database)
 3. [Arquivos de instalação do projeto](#download)
 
 ## Features
@@ -32,7 +32,7 @@
 
 <p>Faça download do conjunto de arquivos neste <a href="https://github.com/crisdamacena/java_swing_melhores_passagens/tree/Release_v1">link</a></p>
 
-<p>Dentro da pasta de sua preferencia, após a descompactação, os arquivos devem estar organizados dessa forma:</p>
+<p>Dentro da pasta de sua preferência, após a descompactação, os arquivos devem estar organizados dessa forma:</p>
 
 📁 pastaescolhida<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|__ 📁 lib<br>
@@ -82,6 +82,8 @@
 
 <p>O sistema de gerenciamento de reservas de passagens aéreas Melhores Passagens permite cadastrar e gerenciar passageiros, cadastrar e gerenciar vôos entre aeroportos brasileiros e relacionar passageirosXvôos por meio do cadastro e gerenciamento de reservas.</p>
 
+### Telas
+
 <p>As telas do projeto são:</p>
 
 1. Splash
@@ -128,3 +130,5 @@
 <p>Tela Cancelamentos exibe, gerencia cancelamentos de reservadas cadastrados e cadastra novos cancelamentos de reservas. A partir do ID da passagem, é possível obter os dados da passagem. Deste modo, basta clicar em "Cancelar Reserva" para que a reserva de passagem saia dos registros do banco de dados. O botão "Limpar Lista" exclui todos os cancelamentos salvos no banco de dados. A exibição dos cancelamentos de reservas é pelo código de vôo registrado no banco de dados de forma ascendente.</p>
 
 ![Tela Cancelamentos](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/cancelamentos.PNG)
+
+### Database

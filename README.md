@@ -32,7 +32,7 @@
 
 <p>Faça download do conjunto de arquivos neste link</p>
 
-<p>Dentro da pasta de sua preferencia, após a descompactação, os arquivos devem estar organizados dessa forma</p> va swing
+<p>Dentro da pasta de sua preferencia, após a descompactação, os arquivos devem estar organizados dessa forma</p>
 
 📁suapasta<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|__ 📁 lib<br>

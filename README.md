@@ -32,7 +32,7 @@
 
 <p>Faça download do conjunto de arquivos neste <a href="https://github.com/crisdamacena/java_swing_melhores_passagens/tree/Release_v1">link</a></p>
 
-<p>Dentro da pasta de sua preferência, após a descompactação, os arquivos devem estar organizados dessa forma:</p>
+<p>Dentro do diretório de sua preferência, após a descompactação, os arquivos devem estar organizados dessa forma:</p>
 
 📁 pastaescolhida<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|__ 📁 lib<br>
@@ -46,7 +46,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;|__ db_melhores_passagens.db<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|__ MelhoresPassagens.jar<br>
 
-<p>Visual do direitório com os arquivos da aplicação executável</p>
+<p>Visual do diretório com os arquivos da aplicação executável</p>
 
 ![Visual diretório](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/diretorio.PNG)
 

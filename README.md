@@ -32,9 +32,9 @@
 
 <p>Faça download do conjunto de arquivos neste <a href="https://github.com/crisdamacena/java_swing_melhores_passagens/tree/Release_v1">link</a></p>
 
-<p>Dentro da pasta de sua preferencia, após a descompactação, os arquivos devem estar organizados dessa forma</p>
+<p>Dentro da pasta de sua preferencia, após a descompactação, os arquivos devem estar organizados dessa forma:</p>
 
-📁pastaescolhida<br>
+📁 pastaescolhida<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|__ 📁 lib<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__ commons-dbutils-1.7<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__ jcalendar-1.4<br>
@@ -67,6 +67,16 @@
 <p>- Criar novo projeto novo projeto "Java with Ant > Java Application" no NetBeans com o nome "MelhoresPassagens"</p>
 <p>- Substituir arquivos do projeto criado pelos itens baixados</p>
 <p>- Executar projeto (F6)</p>
+
+<p>Os arquivos devem estar organizados dessa forma:</p>
+
+📁 NetBeansProjects<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|__ 📁 MelhoresPassagens<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__ 📁 lib<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__ 📁 nbproject<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__ 📁 src<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__ build<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__ manifest.mf<br>
 
 ## Descrição
 

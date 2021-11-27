@@ -58,7 +58,7 @@
 ### Ambiente
 
 <p>- <a href="https://netbeans.apache.org/download/nb120/nb120.html">IDE NetBeans 12.0+</a></p>
-<p>- <a href="https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html">JDK 14.0</a> ou <a href="https://jdk.java.net/java-se-ri/14">Open JDK 14+</a></p>
+<p>- <a href="https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html">JDK 14.0</a> ou <a href="https://jdk.java.net/java-se-ri/14">Open JDK 14+</a> (Java 14.0.2)</p>
 <p>- <a href="https://www.java.com/en/download/manual.jsp">JRE 1.8.0_301+</a></p>
 
 ### Inicialização

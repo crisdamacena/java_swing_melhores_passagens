@@ -50,8 +50,10 @@
 
 ![Visual diretório](https://raw.githubusercontent.com/crisdamacena/java_swing_melhores_passagens/Prints/diretorio.PNG)
 
-<p>Clique no arquivo MelhoresPassagens.jar para executar a aplicação</p>
+<p>Clique no arquivo MelhoresPassagens.jar para executar a aplicação*</p>
 <p>A tela Login aceita quaisquer valores, exceto campos nulos</p>
+
+<p>*Nesta opção, é necessário ter o JDK instalado</p>
 
 ## Download
 
